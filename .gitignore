@@ -1,0 +1,8 @@
+.vscode
+node_modules
+.vscode-test
+.vscode-test-data
+.vscode-test-data-insiders
+.vscode-test-data-oss
+.vscode-test-data-oss-dev
+.idea
